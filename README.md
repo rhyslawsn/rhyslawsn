@@ -4,7 +4,7 @@ Here's a little bit about me.
 ### 📖 BSc in Computer Science from UVic with a focus in entreprenuership, machine learning, and UX
 ### :seedling: Passion for developing UX driven applications and utilizing machine learning techniques to solve problems
 ### :heartbeat: &nbsp;Creative and enthusiastic Computer Scientist with a passion for both learning and helping others
-### 📣 Currently running [Bidddy](https://bidddy.com): The only auctomated auction tool that utilizes social engagement to grow businesses sales and online presence
+### 📣 Currently Building [Bidddy](https://bidddy.com): The only auctomated auction tool that utilizes social engagement to grow businesses sales and online presence
 ### 📷 In my spare time I enjoy landscape photography, hiking the rugged west coast, and uplifting youth entreprenuers
 ### :round_pushpin: Located in beautiful Victoria, BC!
 
